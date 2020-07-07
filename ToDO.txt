@@ -1,0 +1,24 @@
+Bugs: Spins rapidly if cursor is in player
+Freaks out near colldiers and causes player movement against will -Done
+nav mesh can go through walls -DOne
+
+To DO
+Make enemies - Done
+make enemy waves -Done
+Make liquid firing - Done
+Make spawn generation with a pub
+
+
+Nice To have
+Make death launch by addforce to enemies
+Learn blender more
+Make sprinting timed
+making stairs that work
+
+
+
+
+hint for walls
+Dont let them become navmesh by touching the plane, there is a comp that can fix that
+
+
